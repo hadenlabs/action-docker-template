@@ -12,29 +12,23 @@
 
   -->
 
-# base-template
+# action-docker-template
 
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/hadenlabs/base-template?label=latest&sort=semver)](https://github.com/hadenlabs/base-template/releases) [![Latest Release](https://img.shields.io/github/release/hadenlabs/base-template)](https://github.com/hadenlabs/base-template/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/base-template/lint-code)](https://github.com/hadenlabs/base-template/actions) [![Issues](https://img.shields.io/github/issues/hadenlabs/base-template)](https://github.com/hadenlabs/base-template/issues) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/hadenlabs/action-docker-template?label=latest&sort=semver)](https://github.com/hadenlabs/action-docker-template/releases) [![Latest Release](https://img.shields.io/github/release/hadenlabs/action-docker-template)](https://github.com/hadenlabs/action-docker-template/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/action-docker-template/lint-code)](https://github.com/hadenlabs/action-docker-template/actions) [![Issues](https://img.shields.io/github/issues/hadenlabs/action-docker-template)](https://github.com/hadenlabs/action-docker-template/issues) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com)
 
-base-template for project
-
-### Replace name project to New Project
-
-```bash
-  agr 'base-template' 'new-project'
-```
+action-docker-template for project
 
 ## Help
 
 **Got a question?**
 
-File a GitHub [issue](https://github.com/hadenlabs/base-template/issues).
+File a GitHub [issue](https://github.com/hadenlabs/action-docker-template/issues).
 
 ## Contributing
 
 ### Bug Reports & Feature Requests
 
-Please use the [issue tracker](https://github.com/hadenlabs/base-template/issues) to report any bugs or file feature requests.
+Please use the [issue tracker](https://github.com/hadenlabs/action-docker-template/issues) to report any bugs or file feature requests.
 
 ### Development
 
@@ -75,6 +69,6 @@ All other trademarks referenced herein are the property of their respective owne
 
 The code and styles are licensed under the LGPL-3.0 license [See project license.](LICENSE).
 
-## Don't forget to 🌟 Star 🌟 the repo if you like base-template
+## Don't forget to 🌟 Star 🌟 the repo if you like action-docker-template
 
-[Your feedback is appreciated](https://github.com/hadenlabs/base-template/issues)
+[Your feedback is appreciated](https://github.com/hadenlabs/action-docker-template/issues)
