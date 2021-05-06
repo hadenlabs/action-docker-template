@@ -48,5 +48,5 @@ description: |-
   ### TODO: Replace name project to New Project
 
   ```bash
-    agr 'action-docer-template' 'new-project'
+    agr 'action-docker-template' 'new-project'
   ```
