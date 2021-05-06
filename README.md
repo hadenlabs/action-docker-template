@@ -18,6 +18,12 @@
 
 action-docker-template for project
 
+### TODO: Replace name project to New Project
+
+```bash
+  agr 'action-docer-template' 'new-project'
+```
+
 ## Help
 
 **Got a question?**
