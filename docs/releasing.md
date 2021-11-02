@@ -1,3 +1,13 @@
+<!-- Space: ActionDockerTemplate -->
+<!-- Parent: Project -->
+<!-- Title: Releasing -->
+
+<!-- Label: ActionDockerTemplate -->
+<!-- Label: Project -->
+<!-- Label: Releasing -->
+<!-- Include: docs/disclaimer.md -->
+<!-- Include: ac:toc -->
+
 # Releasing
 
 ## Bump a new version
