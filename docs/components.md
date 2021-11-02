@@ -1,21 +1,11 @@
 <!-- Space: ActionDockerTemplate -->
 <!-- Parent: Project -->
-<!-- Title: Troubleshooting -->
+<!-- Title: Components -->
 
 <!-- Label: ActionDockerTemplate -->
 <!-- Label: Project -->
-<!-- Label: Troubleshooting -->
+<!-- Label: Components -->
 <!-- Include: docs/disclaimer.md -->
 <!-- Include: ac:toc -->
 
-# Troubleshooting
-
-## Environment
-
-### Wrong pre-commit with pipenv
-
-Execute the next:
-
-```{.bash}
-task environment
-```
+# components
