@@ -1,9 +1,9 @@
-<!-- Space: ActionDockerTemplate -->
-<!-- Parent: Project -->
-<!-- Title: Project Examples -->
+<!-- Space: Projects -->
+<!-- Parent: ActionDockerTemplate -->
+<!-- Title: Examples ActionDockerTemplate -->
 
 <!-- Label: Examples -->
-<!-- Include: docs/disclaimer.md -->
+<!-- Include: ./../disclaimer.md -->
 <!-- Include: ac:toc -->
 
 ### common

@@ -1,12 +1,12 @@
-<!-- Space: ActionDockerTemplate -->
-<!-- Parent: Project -->
-<!-- Title: Contributing GitFlow -->
+<!-- Space: Projects -->
+<!-- Parent: ActionDockerTemplate -->
+<!-- Title: Contributing GitFlow ActionDockerTemplate -->
 
 <!-- Label: ActionDockerTemplate -->
 <!-- Label: Project -->
 <!-- Label: Contributing -->
 <!-- Label: GitFlow -->
-<!-- Include: docs/disclaimer.md -->
+<!-- Include: ./../disclaimer.md -->
 <!-- Include: ac:toc -->
 
 To contribute to action-docker-template project on [GitHub](https://github.com/hadenlabs/action-docker-template), We use Gitflow (See more [here](https://datasift.github.io/gitflow/IntroducingGitFlow.html)) In a nutshell, it means that you should branch from the main repository and contribute back by making [pull request](https://github.com/hadenlabs/action-docker-template/pulls).
@@ -63,7 +63,7 @@ To resolve a conflict, run the following commands.
 
 ```bash
 # checkout a branch you open MR from
-git fetch upstream # assuming upstream is rfid/action-docker-template
+git fetch upstream # assuming upstream is hadenlabs/action-docker-template
 git merge upstream/merge_branch # Where merge_branch is a branch you open merge request against.
 # resolve merge requests
 git add changed_files
