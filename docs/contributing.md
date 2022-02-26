@@ -1,11 +1,11 @@
-<!-- Space: ActionDockerTemplate -->
-<!-- Parent: Project -->
-<!-- Title: Contributing -->
+<!-- Space: Projects -->
+<!-- Parent: ActionDockerTemplate -->
+<!-- Title: Contributing ActionDockerTemplate -->
 
 <!-- Label: ActionDockerTemplate -->
 <!-- Label: Project -->
 <!-- Label: Contributing -->
-<!-- Include: docs/disclaimer.md -->
+<!-- Include: disclaimer.md -->
 <!-- Include: ac:toc -->
 
 # How To Contribute

@@ -7,11 +7,6 @@ on:
     types:
       - completed
 
-  pull_request:
-    branches:
-      - develop
-      - main
-
   push:
     branches:
       - develop
@@ -39,10 +34,11 @@ jobs:
           fetch-depth: 0
 
       - name: Install Task
+        if: ${{ !env.ACT }}
         uses: arduino/setup-task@v1
 
       - name: Check dependences
-        run: task mark:check
+        run: task confluence:check
 
       - name: Sync confluence
-        run: task mark:sync
+        run: task confluence:sync:all
