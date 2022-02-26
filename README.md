@@ -15,7 +15,7 @@
 
   -->
 
-[![Latest Release](https://img.shields.io/github/release/hadenlabs/action-docker-template)](https://github.com/hadenlabs/action-docker-template/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/action-docker-template/lint-code)](https://github.com/hadenlabs/action-docker-template/actions) [![Issues](https://img.shields.io/github/issues/hadenlabs/action-docker-template)](https://github.com/hadenlabs/action-docker-template/issues) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com)
+[![Latest Release](https://img.shields.io/github/release/hadenlabs/action-docker-template)](https://github.com/hadenlabs/action-docker-template/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/action-docker-template/lint-code)](https://github.com/hadenlabs/action-docker-template/actions) [![Issues](https://img.shields.io/github/issues/hadenlabs/action-docker-template)](https://github.com/hadenlabs/action-docker-template/issues) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/changelog-Keep%20a%20Changelog%20v1.0.0-orange)](https://keepachangelog.com)
 
 # action-docker-template
 
@@ -78,7 +78,7 @@ Using the given version number of `MAJOR.MINOR.PATCH`, we apply the following co
 
 ## Copyright
 
-Copyright © 2018-2021 [Hadenlabs](https://hadenlabs.com)
+Copyright © 2018-2022 [Hadenlabs](https://hadenlabs.com)
 
 ## Trademarks
 
