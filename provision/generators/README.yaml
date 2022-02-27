@@ -64,5 +64,8 @@ description: |-
     agr 'action-docker-template' 'new-project'
   ```
 
+include:
+  - 'docs/include/actions.md'
+
 usages:
   - docs/usage.md
