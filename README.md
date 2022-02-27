@@ -38,6 +38,54 @@ This is a list of plugins that need to be installed previously to enjoy all the 
 
 ## Usage
 
+To use this action, make a file `.github/workflows/docker-template.yml`. Here's a template to get started:
+
+```yaml
+name: action-docker-template
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  confluence:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Check out a copy of the repo
+        if: ${{ !env.ACT }}
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: action-docker-template
+        uses: hadenlabs/action-docker-template@0.0.0
+        with:
+          args: ''
+```
+
+ <!-- action-docs-inputs -->
+
+## Inputs
+
+| parameter | description                     | required | default      |
+| --------- | ------------------------------- | -------- | ------------ |
+| args      | options to pass to image docker | `false`  | command args |
+
+<!-- action-docs-inputs -->
+
+<!-- action-docs-outputs -->
+
+<!-- action-docs-outputs -->
+
+<!-- action-docs-runs -->
+
+## Runs
+
+This action is an `composite` action.
+
+<!-- action-docs-runs -->
+
 ## Help
 
 **Got a question?**
