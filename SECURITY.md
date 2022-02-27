@@ -1,3 +1,12 @@
+<!-- Space: Projects -->
+<!-- Parent: ActionDockerTemplate -->
+<!-- Title: Security ActionDockerTemplate -->
+
+<!-- Label: ActionDockerTemplate -->
+<!-- Label: Security -->
+<!-- Include: docs/disclaimer.md -->
+<!-- Include: ac:toc -->
+
 # Security Policy
 
 ## Reporting a Security Bug
